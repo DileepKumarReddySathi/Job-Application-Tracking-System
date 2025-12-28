@@ -109,8 +109,8 @@ Email sending is **decoupled** from API request handling:
 ## Environment Variables (`.env`)
 
 ```env
-DATABASE_URL=postgresql://postgres:your_password@localhost:5432/ats_db
-SECRET_KEY=your_secret_key
+DATABASE_URL=postgresql://postgres:Dileep%402025@localhost:5432/ats_db
+SECRET_KEY=9f8d7c6b5a4e3d2c1b0a9e8f7d6c5b4a3f2e1d0c9b8a7f6e5d4c3b2a1
 ```
 
 ---
